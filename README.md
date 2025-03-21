@@ -12,8 +12,9 @@ This project focuses on optimizing routes for efficient transportation and deliv
 
 ## Technologies Used  
 - Python (Pandas, NetworkX, Scikit-learn, etc.)  
-- SQL for data storage and querying  
+- VRM (Vehicle Routing Model) 
 - Visualization tools (Matplotlib, Folium, etc.)  
+- OR-Tools
 
 ## Usage  
 1. Load the dataset containing location and distance data.  
